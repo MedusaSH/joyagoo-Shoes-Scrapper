@@ -21,5 +21,5 @@ Il collecte les noms, les URLs et télécharge toutes les **images** associées 
 ### 1. Cloner le repo
 
 ```bash
-git clone https://github.com/ton-utilisateur/joyagoo-shoes-scraper.git
+git clone https://github.com/MedusaSH/joyagoo-shoes-scraper.git
 cd joyagoo-shoes-scraper
